@@ -1,0 +1,11 @@
+{
+  "name": "mahout/user-authentication",
+  "type": "metapackage",
+  "license": "MIT",
+  "description": "Basic User authentication requirements UserEntity, UserRepository configs and routes",
+  "require": {
+    "php": "^7.1",
+    "symfony/orm-pack": "~1.0",
+    "symfony/security-bundle": "~3.3"
+  }
+}
